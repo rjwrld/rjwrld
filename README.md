@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- 📍 Soy de San José, Costa Rica <br>-  📧 Contáctame a este correo: ronaldjosuecb10@hotmail.com<br>- 🎓 Estudié en la Universidad Fidelitas Ingenieria en Sistemas de Computacion<br>- 🎓 Estudié en la ULACIT Administración de Negocios</p>
+<p align="left">- 📍 Soy de San José, Costa Rica <br>-  📧 Contáctame a este correo: ronaldjosuecb10@hotmail.com<br>- 🎓 Estudié en la Universidad Fidelitas, Ingenieria en Sistemas de Computacion<br>- 🎓 Estudié en la ULACIT, Administración de Negocios</p>
 
 ###
 

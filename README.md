@@ -36,13 +36,15 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
-
 ###
 
 <p align="left">- 📍 Soy de San José, Costa Rica <br>-  📧 Contáctame a este correo: ronaldjosuecb10@hotmail.com<br>- 🎓 Estudié en la Universidad Fidelitas, Ingenieria en Sistemas de Computacion<br>- 🎓 Estudié en la ULACIT, Administración de Negocios</p>
 
 ###
+
+<h3 align="left">🛠 Lenguajes y Herramientas</h3>
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />

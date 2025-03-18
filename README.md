@@ -27,21 +27,29 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mí</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Soy estudiante de Ingeniería en Sistemas y Administración de Empresas, con una pasión evidente por ambas disciplinas. Destaco por mi habilidad para trabajar en equipos diversos y adaptarme rápidamente a nuevas tecnologías. Mi enfoque proactivo y mi compromiso con el aprendizaje continuo me permiten abordar desafíos con determinación y encontrar soluciones innovadoras. Busco oportunidades para desarrollar mis habilidades interpersonales y de liderazgo, mientras contribuyo al éxito de las organizaciones en las que me involucro.</p>
+<p align="left">I am currently in my final year of Software Engineering, with a concurrent pursuit of studies in Business Administration. My academic and professional journey has provided me with a distinctive blend of technical proficiency in web and software development, complemented by critical insights in business operations, effectively positioning me to bridge technological solutions with organizational goals.
+
+I have experience collaborating on web application projects alongside multidisciplinary teams, enhancing my teamwork and project coordination capabilities. Additionally, I accumulated valuable experience through 14 months as a D2 Associate at Amazon, where I provided technical support to users of Amazon's Fire TV, Kindle, Alexa devices, and Prime Video services. This role honed my troubleshooting skills, customer experience capabilities, problem-solving abilities, and time management skills.
+
+My core strengths are my effective communication and exceptional adaptability, enabling me to successfully collaborate with teams, engage stakeholders, and swiftly adjust to evolving project requirements. These abilities have consistently allowed me to make meaningful contributions to all teams and projects I have been part of.
+
+Passionate about creating innovative, user-centered software solutions, particularly in web development, I continuously explore new technologies and frameworks to enhance my skill set.
+
+I am enthusiastic about leveraging my technical expertise and business acumen to contribute effectively and create impactful solutions within the technology industry..</p>
 
 ###
 
 ###
 
-<p align="left">- 📍 Soy de San José, Costa Rica <br>-  📧 Contáctame a este correo: ronaldjosuecb10@hotmail.com<br>- 🎓 Estudio en la Universidad Fidelitas, Ingenieria en Sistemas de Computacion<br>- 🎓 Estudio en la ULACIT, Administración de Negocios</p>
+<p align="left">- 📍 San José, Costa Rica <br>-  📧 Contact: ronaldjosuecb10@hotmail.com<br>- 🎓 Universidad Fidelitas, Software Engineering <br>- 🎓 ULACIT, Business Administration </p>
 
 ###
 
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
+<h3 align="left">🛠 Frameworks and Tools </h3>
 
 
 

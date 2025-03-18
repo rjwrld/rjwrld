@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hola! Soy Josue Calderon un desarrollador de software apasionado por la tecnología, el aprendizaje constante y la creación de soluciones innovadoras.</p>
+<p align="left">Hello! I'm Josue Calderon, a software developer passionate about technology, continuous learning, and creating innovative solutions.</p>
 
 ###
 

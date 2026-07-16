@@ -38,8 +38,7 @@ I work in Agile/Scrum, design REST APIs, and document the reasoning behind my de
 Architecture Decision Records. Ongoing Business Administration studies keep me focused on the
 process and goals behind the code.
 
-I also develop with agentic AI tooling (Claude Code) and have shipped a Claude-powered feature in
-a production app. I work comfortably in **English (C1)** and **Spanish (native)**.
+I work comfortably in **English (C1)** and **Spanish (native)**.
 
 ## 🛠️ Tech Stack
 
@@ -55,23 +54,15 @@ Claude Code · LLM integration (Vercel AI SDK)
 
 ## 📌 Featured Work
 
-**[FundaVida](https://github.com/rjwrld/FundaVida)** &nbsp;<a href="https://github.com/rjwrld/FundaVida"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View FundaVida repo" /></a>
+**[FundaVida](https://fundavida.vercel.app)** &nbsp;<a href="https://fundavida.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="FundaVida live demo" /></a> <a href="https://github.com/rjwrld/FundaVida"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View FundaVida repo" /></a>
 
-Educational-management platform for a Costa
-Rican non-profit, rearchitected into a zero-cost, always-on demo. React + TypeScript (strict),
-tested with Vitest and Playwright, shipped through a GitHub Actions CI pipeline, and deployed on
-Vercel. Bilingual (EN/ES) with CI-enforced translations.
-
-**MotoAccesoriosAzur** *(private — real client work)* — Headless e-commerce for a Costa Rican
-motorcycle-accessories shop: storefront, admin, and a WhatsApp assistant powered by Claude
-(Vercel AI SDK). Built on Next.js, Payload CMS, and PostgreSQL. Happy to walk through it on request.
-
-## 🚀 What I'm Building Next
-
-- A public full-stack app with a real backend, database, and authentication — to complement
-  FundaVida's front-end-focused build.
-- A small agentic-AI project that pushes past LLM integration toward tool-using agents.
-- Alongside: sharpening CS fundamentals and hands-on web security (OWASP Top 10, PortSwigger).
+Educational-management platform I built and delivered to a Costa Rican non-profit — students,
+courses, attendance, grading, and in-browser certificate PDFs across four roles (admin · teacher ·
+student · community-service trainee). Originally shipped on Supabase (Auth, RLS, PostgreSQL), then
+rearchitected into a zero-backend, always-on demo so anyone can tour every role without a login.
+React 18 + TypeScript (strict), Vite, Tailwind, and shadcn/ui, gated by a 7-step GitHub Actions
+pipeline (type-check · lint · format · i18n · Vitest · build · Playwright) on every commit.
+Bilingual (EN/ES) with CI-enforced translations.
 
 ## 📫 Get in Touch
 

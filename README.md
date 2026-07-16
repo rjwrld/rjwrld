@@ -3,7 +3,7 @@
 # Josué Calderón
 
 <a href="https://github.com/rjwrld">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Modern%2C+tested+web+apps+with+CI%2FCD" alt="Full-Stack Developer — TypeScript · React/Next.js · Node.js · PostgreSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Modern%2C+tested+web+apps+with+CI%2FCD" alt="Full-Stack Developer — TypeScript · React/Next.js · Node.js · PostgreSQL" />
 </a>
 
 <p>

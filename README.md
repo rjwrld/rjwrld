@@ -50,9 +50,22 @@ I work comfortably in **English (C1)** and **Spanish (native)**.
 
 **Also in the toolbox —** Payload CMS · Prisma ORM · Zod · TanStack Query · React Hook Form ·
 shadcn/ui · REST API design · SOLID · Architecture Decision Records (ADRs) · Conventional Commits ·
-Claude Code · LLM integration (Vercel AI SDK)
+Claude Code · LLM integration (Vercel AI SDK) · RAG (pgvector, hybrid retrieval, eval harness)
 
 ## 📌 Featured Work
+
+**[Tramitico](https://tramitico.com)** &nbsp;<a href="https://tramitico.com"><img src="https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white" alt="Tramitico live app" /></a> <a href="https://github.com/rjwrld/tramitico"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Tramitico repo" /></a>
+
+RAG assistant that answers the tax and social-security questions of self-employed people in
+Costa Rica, in plain Spanish, with every material claim cited to the official Hacienda or CCSS
+document and article it came from. Hybrid retrieval (pgvector + lexical search fused by
+reciprocal rank, then reranked) over 23 official documents; each answer is checked against its
+sources before it streams, and the assistant abstains or routes to the right institution when
+the corpus can't back it. Next.js 16 + TypeScript (strict) on Supabase (PostgreSQL, pgvector,
+row-level security), Claude via the Vercel AI SDK, gated by a 73-case eval harness (retrieval
+hit-rate · groundedness · abstention) alongside Vitest, Playwright, and GitHub Actions CI.
+Solo build directing coding agents, with 21 Architecture Decision Records and a written
+account of how it was built. Apache-2.0.
 
 **[FundaVida](https://fundavida.vercel.app)** &nbsp;<a href="https://fundavida.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="FundaVida live demo" /></a> <a href="https://github.com/rjwrld/FundaVida"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View FundaVida repo" /></a>
 
